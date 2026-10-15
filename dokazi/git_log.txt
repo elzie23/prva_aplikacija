@@ -1,0 +1,3 @@
+fd53dc3 Osobni podaci i samostalne izmjene
+db05d24 Prvi zaslon i Dart primjer
+201719b Pocetni Flutter projekt
